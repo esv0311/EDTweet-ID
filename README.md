@@ -1,7 +1,7 @@
 # EDTweet-ID
 Eating Disorders Tweets - Indonesian Dataset
 
-**EDTweet-ID** is a curated dataset of 3,044 Indonesian-language tweets collected from the X platform (formerly Twitter) between 2020 and 2025. The dataset aims to support research on eating disorders (EDs) in underrepresented languages, particularly Bahasa Indonesia.
+**EDTweet-ID** is a curated dataset of 3,044 Indonesian-language tweets collected from the X platform (formerly Twitter) between 2020 and 2025. The dataset aims to support research on eating disorders (EDs) in Bahasa Indonesia.
 
 ## Dataset Description
 
@@ -9,7 +9,7 @@ Each tweet in the dataset is labeled into one of four categories:
 
 | Category | Description |
 |----------|-------------|
-| **D (Dieting)** | Extreme dieting, fasting, calorie tracking, avoiding certain foods, compulsive exercise for weight loss |
+| **D (Dieting)** | Extreme dieting, fasting, calorie tracking, avoiding certain foods or compulsive exercise for weight loss |
 | **B (Bulimia & Food Preoccupation)** | Bulimic behaviors, obsession with food, binge-eating, purging, guilt after eating |
 | **O (Oral Control)** | Controlling overeating due to social pressure, shame of eating around others |
 | **None** | Tweets not related to ED, such as jokes, celebrity news, or general mentions of food/weight without distress |
