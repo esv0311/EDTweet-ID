@@ -16,13 +16,6 @@ Each tweet in the dataset is labeled into one of four categories:
 
 The annotation categories were developed with reference to the **Eating Attitudes Test (EAT-26)** and validated by a psychology expert.
 
-## Annotation Process
-
-- The annotation was performed in two stages:
-  1. An initial subset of 200 tweets was labeled by three annotators.
-  2. After validation, the remaining tweets were annotated accordingly.
-- **Inter-annotator agreement** was calculated using **Fleiss’s kappa**, with a resulting value of **0.88**, indicating *almost perfect agreement*.
-
 ## Usage
 
 This dataset is publicly available for **research purposes**. You may use it to:
